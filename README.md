@@ -15,6 +15,7 @@ this project have 3 steps
 
 3.fit Cox proportional hazard model to create machine learning that can predict how long untill player comeback again.
 
+## Result and conclusion
 
 -KaplanMeier model show most player will have injury again in one year
 
