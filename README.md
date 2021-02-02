@@ -11,13 +11,13 @@ this project have 3 steps
 
 1.prepare dataset for model by find the most severe injury and next injury they face.
 
-2.fit KaplanMeier model to check trend to comeback with injury
+2.fit KaplanMeier model to check trend to comeback with injury.
 
 3.fit Cox proportional hazard model to create machine learning that can predict how long untill player comeback again.
 
 ## Result and conclusion
 
--KaplanMeier model show most player will have injury again in one year
+-KaplanMeier model show most player will have injury again in one year.
 
 -Cox PH model have concordance score = 0.72
 
